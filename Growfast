@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Social Media Growth</title>
+
+  <style>
+    body{
+      margin:0;
+      padding:0;
+      background:black;
+      color:white;
+      font-family:Arial;
+      text-align:center;
+    }
+
+    .logo{
+      font-size:35px;
+      font-weight:bold;
+      padding:20px;
+      color:#00ffcc;
+    }
+
+    .main{
+      margin-top:100px;
+    }
+
+    h1{
+      font-size:40px;
+      color:#00ffcc;
+    }
+
+    p{
+      font-size:22px;
+      margin:15px;
+    }
+
+    .btn{
+      display:inline-block;
+      margin-top:30px;
+      padding:15px 35px;
+      background:#00ffcc;
+      color:black;
+      text-decoration:none;
+      border-radius:40px;
+      font-weight:bold;
+    }
+  </style>
+</head>
+
+<body>
+
+<div class="logo">
+  SOCIAL MEDIA GROWTH
+</div>
+
+<div class="main">
+
+  <h1>Welcome To Social Media Growth Service 🚀</h1>
+
+  <p>✅ 100% Trusted Panel</p>
+
+  <p>👥 100000+ Happy Customers</p>
+
+  <p>📞 Helpline: +91 9468879061</p>
+
+  <a href="#" class="btn">Get Started</a>
+
+</div>
+
+</body>
+</html>
